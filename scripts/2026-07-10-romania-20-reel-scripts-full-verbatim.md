@@ -148,8 +148,18 @@ Use **Clip 3A (LONG)** and **3B (TITAN/SHORT)** from `2026-07-10-vishen-3clips-l
 
 ---
 
-## CLIP 6 · Lead Like a Woman
-**Mode: Contrarian collision · Verdict: SHIP (green-lit)**
+## CLIP 6 · Lead Like a Woman — ✅ SHIPPED BY TEAM (backfill)
+**Mode: Contrarian collision · Verdict: RELEASED.**
+**Backfill record:** shipped by the clipper team **June 30, 2026** on @vishen × @mindvalley (pre-dates this blueprint set — the team independently cut the same moment, which validates the selection engine). **Actual on-screen hook used: "The best companies of the next decade will be led by women."** Caption angle: "The case for female leadership in companies." **Performance: 130,000 views in 24 hours; 6,597+ likes in week one.**
+**Feedback loop:** learning-loop record complete in Airtable ("Feminine Leadership Is the Future", 🎞️ Clips, rec OIThy0pZQJ7g1k — clipper Paul Hanna, status Done): final shipped transcript ✓ · on-screen hook ✓ · 24h engagement ✓. Learnings: contrarian-collision topic travels; the shipped hook is a **bold-prophecy** pattern — added to `hook-writing-playbook.md`.
+
+### SHIPPED CUT — approved verbatim (as released Jun 30, source of truth from Airtable)
+- [1] OPEN *(mic-drop promoted — RULE 0)*: "If you're a woman leader, do not try to act like a man. Stop that."
+- [2] "Most companies right now are run based on masculine ideas of leadership. Feminine qualities are absolutely vital."
+- [3] *(splices)*: "Remember we shared the happiness study? Well, it turns out women are better at ensuring teams are happier. We shared the idea of intuition. Women are better at intuition. A mother can sometimes sense what's going on with her child. But there's more evidence for that."
+- [4] "Gallup did a study of 10 million employees, and they found this. Employees who say, my supervisor or someone at work cares about me as a person, those employees were the top employees in every way. Women are good at that. They're good at appreciation, at nurturing, at care. It's the female biology. And so female-based leadership is going to be a huge advantage in companies."
+- [5] BOOKEND MIC-DROP: "If you're a woman leader, do not try to act like a man. Stop that. Your qualities are the qualities of companies of the future."
+- *(This shipped cut supersedes the blueprint cut below; blueprint retained for the record.)*
 
 **🎬 ON-SCREEN HOOK:** "Your company runs on a 1940s army manual."
 **🎙️ SPOKEN OPEN:** "Most companies right now are run based on masculine ideas of leadership, and the reason for that is because the modern corporate structure evolved out of World War II and the U.S. Army."
