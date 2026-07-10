@@ -59,8 +59,9 @@ Optional alternate ending (verbatim, from the Q&A): "If you can't get your work 
 
 **Why uncommon:** a self-made founder *defending* taxation, with itemised receipts (university, ARPANET, CERN, subway, rent control) — "self-made" exposed as the most expensive lie in business.
 
-### Both versions already exist, Vishen-approved — run them as written
-Use **Clip 1A (LONG)** and **Clip 1B (TITAN/SHORT — Vishen's own Data-Hook cut)** from `2026-07-10-vishen-3clips-long-and-titan.md`, verbatim to his approved Blinklife script. SHORT is the trial reel he specifically asked to test. Key beats: receipts stack → "And I am damn proud when I pay my taxes." → Elon/Bezos call-out → "That is awfully greedy and stupid." → golden-era 70% tax → "1% owns more wealth than the bottom 80%" → **"Pay your fucking taxes."**
+### Both versions Vishen-approved — LONG reworked per Gareth's edit direction (2026-07-10)
+**LONG now opens on Vishen SAYING "Pay your fucking taxes"** — spoken in dialogue with full contrarian energy, splice-promoted from the close — then the unpack (frame → receipts → Elon/Bezos call-out → stakes), and the line **repeats in its original position at the end** to close the loop. Duplication intentional and flagged (playbook law 3). Full reworked cut order lives in the calendar modal (clip R2).
+Use **Clip 1B (TITAN/SHORT — Vishen's own Data-Hook cut)** from `2026-07-10-vishen-3clips-long-and-titan.md` unchanged. SHORT is the trial reel he specifically asked to test. Key beats: receipts stack → "And I am damn proud when I pay my taxes." → Elon/Bezos call-out → "That is awfully greedy and stupid." → golden-era 70% tax → "1% owns more wealth than the bottom 80%" → **"Pay your fucking taxes."**
 
 **Edit notes:** SHORT opens on the stat card, closes on the kicker card. LONG follows approved order. Asterisk profanity on screen, keep in audio. Rapid subtitle stacks on UNIVERSITY · ARPA · CERN · SUBWAY · RENT CONTROL.
 **Headlines:** 1) "'Pay your f***ing taxes.' — a $150M founder to the billionaire class." 2) "Why 'self-made' is the most expensive lie in business." 3) "Society built you. Act like it."
@@ -131,11 +132,13 @@ Use **Clip 1A (LONG)** and **Clip 1B (TITAN/SHORT — Vishen's own Data-Hook cut
 
 ---
 
-## CLIP 5 · The Muslim Watch List
-**Mode: Story/uncomfortable · Verdict: SHIP-WITH-FLAG (senior review — Vishen asked why this hasn't shipped)**
+## CLIP 5 · "Men With No Vision Create Division" (Muslim Watch List)
+**Mode: Story/uncomfortable · Verdict: SHIP — title + master script are Vishen's own approved underline cut (WhatsApp, 2026-07-10; source-of-truth priority 1). The standalone aphorism clip (old Clip 11) is RETIRED — the line now opens this full story. One-line reels don't meet the story standard.**
 
-**🎬 ON-SCREEN HOOK:** "America put me on a 'Muslim watch list.' I'm not Muslim."
-**⏱️ SHORT ~60s · LONG ~2–3 min (story — let it run)**
+**🎬 ON-SCREEN HOOK (Vishen's title):** "Men with no vision create division." · variants: "America put me on a 'Muslim watch list.' I'm not Muslim." / "They fingerprinted me every 4 weeks. So I left."
+**🎙️ EDIT DIRECTION (Gareth, 2026-07-10):** open on "Men with no vision create division" — **hold a full beat of silence on Vishen's face** — then he unpacks. The line recurs naturally mid-passage; keep it as a callback (same bookend device as the shipped Feminine Leadership cut).
+**⏱️ SHORT ~60s (TITAN) · LONG ~2–3 min (Vishen's approved script — the master cut, in the calendar modal)**
+**Sub-editor fixes before subtitles:** NYPD (doc says "NYP") · Ceaușescu (doc says "Cheșcu") · verify "We worked one million" vs transcript "We were at 1 million."
 
 ### Both versions already exist, Vishen-approved — run them as written
 Use **Clip 3A (LONG)** and **3B (TITAN/SHORT)** from `2026-07-10-vishen-3clips-long-and-titan.md`. Beats: watch-list reveal → fingerprinted every four weeks, purchases inspected, two-hour airport interviews → "screw this" → rebuilt New York in Malaysia → beat the $100M American competitor from Malaysia and was offered the chance to buy them for $1M → "Resilience means that you don't accept anything that happens to you as outside your control." SHORT kicks on **"Men with no vision create division."**
@@ -306,8 +309,8 @@ Use **Clip 3A (LONG)** and **3B (TITAN/SHORT)** from `2026-07-10-vishen-3clips-l
 
 ---
 
-## CLIP 11 · "Men with no vision create division."
-**Verdict: SHIP-WITH-FLAG (aphorism ONLY — political lead-in stays out until Sept)**
+## CLIP 11 · "Men with no vision create division." — ⛔ RETIRED (merged into Clip 5)
+**Verdict: RETIRED (Gareth, 2026-07-10): one-line reels don't meet the story standard — "we can't just run one line and stop the reel." The aphorism now opens Clip 5's full watch-list story per Vishen's approved cut. Blueprint kept for the record only.**
 
 **🎬 ON-SCREEN HOOK:** "Men with no vision create division."
 **🎙️ SPOKEN OPEN:** "Men with no vision create division."
@@ -542,13 +545,13 @@ Use **Clip 3A (LONG)** and **3B (TITAN/SHORT)** from `2026-07-10-vishen-3clips-l
 | 2 | Pay your taxes | SHIP-WITH-FLAG (profanity; Trump aside per Vishen's underline) |
 | 3 | America is broken | SHIP-WITH-FLAG (stats in 11s; senior eye) |
 | 4 | Don't build a Coke | SHIP-WITH-FLAG (brand claims in his voice) |
-| 5 | Muslim watch list | SHIP-WITH-FLAG (senior review) |
+| 5 | Men with no vision create division (watch list) | SHIP — Vishen's approved cut |
 | 6 | Lead like a woman | SHIP |
 | 7 | Luck is a skill | SHIP |
 | 8 | Entrepreneurship is overrated | SHIP |
 | 9 | Airplane test | SHIP |
 | 10 | Pilots / 90% | SHIP |
-| 11 | Vision/division | SHIP-WITH-FLAG (aphorism only) |
+| 11 | Vision/division | RETIRED — merged into Clip 5 |
 | 12 | Darwin / EU | SHIP (depoliticised cut only) |
 | 13 | Frenchman / 35 hours | SHIP |
 | 14 | Wanted to quit 5 years | SHIP |
