@@ -73,6 +73,8 @@
   .chip.naveen{background:var(--green-light);color:var(--green-content);border-left:3px solid var(--green)}
   .chip.chiara{background:var(--pink-light);color:var(--pink);border-left:3px solid var(--pink)}
   .chip.holdrel{background:var(--orange-light);color:var(--orange-content);border-left:3px solid var(--orange)}
+  .chip.shipped{background:var(--green-light);color:var(--green-content);border-left:3px solid var(--green)}
+  .day.prevmonth .num{opacity:.55}
   .chip .flagdot{position:absolute;top:6px;right:6px;width:8px;height:8px;border-radius:128px;background:var(--orange)}
   .chip.dim{opacity:.18;pointer-events:none}
 
@@ -204,20 +206,22 @@ const SCRIPTS={"R1":[{"l":"Trial A · Short — ~60s","b":[["OPEN","Stop working
 </script>
 <script>
 const MONTHS=[
+  {y:2026,m:5,label:"June 2026 — already shipped",sub:"Backfill: what the team shipped before this calendar started (second half of June shown).",from:15},
   {y:2026,m:6,label:"July 2026",sub:"Launch fortnight — one clip a day from Mon Jul 13. Leads first: greenlit #1, then one lead per source."},
   {y:2026,m:7,label:"August 2026",sub:"Full month cadence. The values-controversy run (taxes → America → watch list) lands mid-month once the channel is warmed and a senior eye is booked."},
   {y:2026,m:8,label:"September 2026",sub:"Run complete — compliance holds unlock Sep 15 (re-read the compliance file live before cutting)."}
 ];
 const DOW=["Mon","Tue","Wed","Thu","Fri","Sat","Sun"];
 const byDate={};
-CLIPS.forEach(c=>{ if(c.d!=="bench"){ (byDate[c.d]=byDate[c.d]||[]).push(c);} });
+CLIPS.forEach(c=>{ if(c.d!=="bench"){ (byDate[c.d]=byDate[c.d]||[]).push(c);} if(c.rel){ (byDate[c.rel]=byDate[c.rel]||[]).push(c);} });
 
 function pad(n){return n<10?"0"+n:""+n;}
 function renderMonths(){
   const root=document.getElementById("months");
   root.innerHTML="";
-  MONTHS.forEach(({y,m,label,sub})=>{
-    const first=new Date(y,m,1);
+  MONTHS.forEach(({y,m,label,sub,from})=>{
+    const startDay=from||1;
+    const first=new Date(y,m,startDay);
     const days=new Date(y,m+1,0).getDate();
     let startCol=(first.getDay()+6)%7; // Monday-first
     const monthEl=document.createElement("div");
@@ -229,8 +233,8 @@ function renderMonths(){
     cal.appendChild(head);
     let week=document.createElement("div");week.className="cal-week";
     for(let i=0;i<startCol;i++){const b=document.createElement("div");b.className="day blank";week.appendChild(b);}
-    for(let d=1;d<=days;d++){
-      const col=(startCol+d-1)%7;
+    for(let d=startDay;d<=days;d++){
+      const col=(startCol+d-startDay)%7;
       const dateStr=`${y}-${pad(m+1)}-${pad(d)}`;
       const cell=document.createElement("div");
       cell.className="day"+(col>=5?" weekend":"")+(dateStr==="2026-07-10"?" today":"");
