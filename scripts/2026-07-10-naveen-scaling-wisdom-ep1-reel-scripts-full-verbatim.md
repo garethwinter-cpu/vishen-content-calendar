@@ -5,7 +5,7 @@
 
 > **Guest rules apply:** show Naveen on screen (craft rule — never hide the guest). Speaker 3 = Vishen, Speaker 4 = Naveen.
 > **Gift from the recording:** Vishen directed clean **direct-to-camera social takes** at 00:59 ("Send the elevator back" / "Don't be a parasite on humanity") — use those takes, they were shot for exactly this.
-> **Flags:** (1) Elon is praised as a storyteller here — calendar-space away from Romania's taxes/America clips AND note Vishen's own "this was before Elon got political" line is available as a defuser. (2) Avoid "we will eliminate cancer in 5 years" as an engine — medical overclaim; the dad story carries the mission without it. (3) N2 contains a mild sex-metaphor — confirm channel comfort. (4) ASR fixes: "volume/biome/Wyoming"→**Viome** · "Nadine/Lamine/being Jain"→**Naveen** · first "Dream so big" take is garbled ("drink") — use the clean retake at 00:59:53.
+> **Flags:** (1) ⛔ **N9 is DO-NOT-POST** — compliance §1 Musk-positive ban (Gareth, 2026-07-10): the clip casts Elon as the storytelling hero. Musk appears only villainized (taxes / America-broken context). Blueprint retained for the record. (2) Avoid "we will eliminate cancer in 5 years" as an engine — medical overclaim; the dad story carries the mission without it. (3) N2 contains a mild sex-metaphor — confirm channel comfort. (4) ASR fixes: "volume/biome/Wyoming"→**Viome** · "Nadine/Lamine/being Jain"→**Naveen** · first "Dream so big" take is garbled ("drink") — use the clean retake at 00:59:53.
 
 ---
 
@@ -114,8 +114,9 @@
 
 ---
 
-## N9 · SpaceX Was a Shipping Company (describe the world, not the product) — LEAD
-**Verdict: SHIP-WITH-FLAG (Musk-collision calendar spacing) · A · 🎬 "SpaceX was a shipping company. 19 others did the same thing." · ⏱️ SHORT ~60s · LONG ~2:00**
+## N9 · SpaceX Was a Shipping Company — ⛔ DO-NOT-POST
+**Verdict: DO-NOT-POST (compliance §1 — Musk-positive ban; Elon is the hero of the story) · 🎬 "SpaceX was a shipping company. 19 others did the same thing." · ⏱️ SHORT ~60s · LONG ~2:00**
+*(The underlying lesson — describe the world, not the product — survives via the Viome-box beat; a Musk-free recut could be proposed to Gareth using only the Naveen segments + Viome box.)*
 
 ### SHORT — verbatim cut order
 - [1] OPEN (Vishen): "SpaceX was really a vertical shipping company… vertical shipping of goods to space. But there were like 19 other companies doing that. But why did SpaceX get all of the attention? It's because Elon didn't say, well, I take your stuff and I put it up in space. He said, we're colonizing Mars."
@@ -199,10 +200,10 @@
 **Almost cut:** N10 (experiments) — Edison-adjacent commonness; kept for the A/B-outcome mechanics, which are practical. N12 — "follow your passion" adjacency; kept because "quit" framing is harsher than the cliché.
 
 # COMPLIANCE SUMMARY
-N1–N12: SHIP (N2 innuendo flag, N9 Musk calendar flag, N11 contradiction-spacing note). N13: SHIP-WITH-FLAG (senior review). No §1/§2 material.
+**N9: DO-NOT-POST** (§1 Musk-positive ban). N1–N8, N10–N12: SHIP (N2 innuendo flag, N11 contradiction-spacing note). N13: SHIP-WITH-FLAG (senior review).
 
 # RECOMMENDED SHIP ORDER
-1. **N7** There is no sky → 2. **N3** Heartbeat → 3. **N1** Dream so big → 4. **N9** SpaceX shipping company → 5. **N2** Orgasm (once channel OKs) → 6. **N13** Dad (after senior eye) → 7. **N6** Moon immigration → 8. **N4→N5** parasite/elevator pair (separate weeks) → 9. **N8, N11, N12, N10** cadence.
+1. **N7** There is no sky → 2. **N3** Heartbeat → 3. **N1** Dream so big → 4. **N2** Orgasm (once channel OKs) → 5. **N13** Dad (after senior eye) → 6. **N6** Moon immigration → 7. **N4→N5** parasite/elevator pair (separate weeks) → 8. **N8, N11, N12, N10** cadence.
 
 # FEEDBACK LOOP
 Log approved verbatim + 24h data to Airtable, tagged talk=ScalingWisdom-E1, guest=Naveen, SHORT/LONG.

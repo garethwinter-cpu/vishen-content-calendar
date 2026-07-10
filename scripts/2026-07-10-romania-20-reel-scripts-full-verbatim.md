@@ -180,17 +180,19 @@ Use **Clip 3A (LONG)** and **3B (TITAN/SHORT)** from `2026-07-10-vishen-3clips-l
 ## CLIP 7 · Luck Is a Skill (the phone-book story)
 **Mode: Story/origin · Verdict: SHIP (brand-safe)**
 
-**🎬 ON-SCREEN HOOK:** "I googled: 'why does my luck suck so bad?'"
-**🎙️ SPOKEN OPEN:** "I went on Google, Google was new back then, and I typed in, why does my luck suck so bad, Google?"
+**🎬 ON-SCREEN HOOK (Vishen's own wording, approved 2026-07-10):** "I got promoted 4 times in 3 months. Everyone thought I was working harder. I was meditating at my desk."
+**🎙️ SPOKEN OPEN (recut to match the hook — promotions line promoted to open):** "In three months, I get promoted four times, and at 26, I become vice president of this company."
 **⏱️ SHORT ~45s · LONG ~2:30–3:00 (full arc — let it run)**
 
 **Why uncommon:** broke → meditative finger down the Yellow Pages → doubled sales overnight → boss calls it BS then begs to be taught → four promotions in three months, VP at 26. Reframes luck as a trainable skill; the boss-reversal is the most comment-driving beat in the talk.
+**Hook pattern note:** Vishen's hook is a three-beat misdirection — **Result → Assumption → Secret** ("promoted 4×" → "everyone thought harder work" → "meditating at my desk"). The on-screen hook is written copy (not spoken), so it doesn't breach the verbatim law; the spoken open underneath it stays verbatim. Pattern captured in `skills/viral-reel-architect/references/hook-writing-playbook.md`.
 
-### SHORT — verbatim cut order
-- [1] OPEN: "I went on Google, Google was new back then, and I typed in, why does my luck suck so bad, Google? And I found this class on meditation."
-- [2] "I would go into a meditative state, run my finger down the yellow pages, and I would just feel in my heart, do I call this person, yes or no? And then I would call the yeses. Overnight, I double my sales. Overnight."
-- [3] "And Dimitri says, nah, that's bullshit, but can you teach us all to do it?"
-- [4] MIC-DROP: "In three months, I get promoted four times, and at 26, I become vice president of this company."
+### SHORT — verbatim cut order (recut to Vishen's hook)
+- [1] OPEN *(splice from end — matches the on-screen hook)*: "In three months, I get promoted four times, and at 26, I become vice president of this company."
+- [2] THE PIT *(splice back)*: "I went on Google, Google was new back then, and I typed in, why does my luck suck so bad, Google? And I found this class on meditation."
+- [3] THE SKILL: "I would go into a meditative state, run my finger down the yellow pages, and I would just feel in my heart, do I call this person, yes or no? And then I would call the yeses. Overnight, I double my sales. Overnight."
+- [4] MIC-DROP *(the reversal)*: "So I go to my boss… and I said, Dimitri, I don't know how, but this week I did double the sales. And Dimitri said, what are you doing? And I said, I think they call it intuition. And Dimitri says, nah, that's bullshit, but can you teach us all to do it?"
+- The LONG keeps the googled-line open — SHORT and LONG now trial the two hooks against each other.
 
 ### LONG — verbatim cut order (full arc)
 - [1] OPEN *(same hook)*: "I went on Google… why does my luck suck so bad, Google?"

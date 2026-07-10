@@ -3,7 +3,7 @@
 **Platform:** IG Reels → YT Shorts · **Built with:** `viral-reel-architect` (CREATE) · **Date:** 2026-07-10
 **Compliance re-read:** yes (v2026-07-10). Nothing here touches §1/§2. Kill list applied (see CUTS).
 
-> ⚠️ **CALENDAR COLLISION FLAG (important):** this talk praises **Elon Musk** (pain tolerance, mission); the Romania set attacks him ("greedy and stupid", taxes). Both are verbatim Vishen and both are fair — but do **not** ship a Musk-positive clip and the taxes clip in the same week. Space them; the content calendar handles this.
+> ⛔ **COMPLIANCE UPDATE (Gareth, 2026-07-10): T1, T2 and T3 are DO-NOT-POST.** All Musk-positive / humanizing clips are banned — they read as promoting Elon Musk and risk backlash for the Vishen brand. Musk appears ONLY villainized (taxes / America-is-broken context). Rule added to `compliance-do-not-post.md` §1. The blueprints are retained below for the record only.
 >
 > **ASR name cleanups (verify before on-screen):** "Tony Robinson"→Tony Robbins · "Mae Musk"→Maye Musk · "volume"→**Viome** · "Shahzad Sharmeen / PQ"→**Shirzad Chamine, Positive Intelligence** (verify!) · "Sean Achor"→Shawn Achor · "Shri Kumar Rao"→Srikumar Rao · "bliss zipline"→**Blissipline** (Vishen's real term) · "quote/cult of the Extraordinary Mine"→Code of the Extraordinary Mind.
 >
@@ -11,8 +11,8 @@
 
 ---
 
-## T1 · "I asked Elon the dumbest question of my life." — LEAD
-**Mode: Story/uncommon access · Verdict: SHIP (see collision flag) · A-grade**
+## T1 · "I asked Elon the dumbest question of my life." — ⛔ DO-NOT-POST
+**Mode: Story/uncommon access · Verdict: DO-NOT-POST (compliance §1 — Musk-positive ban, Gareth 2026-07-10)**
 
 **🎬 ON-SCREEN HOOK:** "I asked Elon Musk the dumbest question of my life."
 **🎙️ SPOKEN OPEN:** "In 2013, I asked Elon Musk what I thought was the dumbest question of my life."
@@ -39,8 +39,8 @@
 
 ---
 
-## T2 · Elon's $1-a-Day Experiment
-**Mode: Tactical/story · Verdict: SHIP · A-**
+## T2 · Elon's $1-a-Day Experiment — ⛔ DO-NOT-POST
+**Mode: Tactical/story · Verdict: DO-NOT-POST (compliance §1 — Musk-positive ban)**
 
 **🎬 ON-SCREEN HOOK:** "Elon lived on $1 a day — on purpose."
 **🎙️ SPOKEN OPEN:** "When I was a kid, I decided to try an experiment. The experiment was, could I live on $1 a day?" *(Vishen quoting Elon — keep the attribution frame in the cut)*
@@ -60,8 +60,8 @@
 
 ---
 
-## T3 · The Netflix Lobby ("Screw it, I'll start my own company")
-**Mode: Story/humour · Verdict: SHIP · B+**
+## T3 · The Netflix Lobby ("Screw it, I'll start my own company") — ⛔ DO-NOT-POST
+**Mode: Story/humour · Verdict: DO-NOT-POST (compliance §1 — Musk-positive ban)**
 
 **🎬 ON-SCREEN HOOK:** "Elon waited in a lobby with a resume. Nobody came."
 **🎙️ SPOKEN OPEN:** "There was a time when he was young and he really wanted a job."
@@ -341,10 +341,10 @@
 **Almost cut:** T7 (Boeing) — Virgin Atlantic lore is semi-known; kept because the rent-don't-buy mechanics are the fresh part. And T13 (Dalai Lama) — short and quiet; kept for mode diversity (the still, spiritual slot).
 
 # COMPLIANCE SUMMARY
-All 14: **SHIP**. No §1/§2 material. One standing flag: **Musk-positive clips (T1, T2, T3) must be calendar-spaced away from Romania's taxes/America clips (§ calendar collision, top of file)**. ASR name fixes required before any on-screen text ships.
+**T1, T2, T3: DO-NOT-POST** (§1 Musk-positive ban, Gareth 2026-07-10). Remaining 11: **SHIP**. ASR name fixes required before any on-screen text ships.
 
 # RECOMMENDED SHIP ORDER (within this set)
-1. **T1** Elon blender (lead story) → 2. **T4** Naveen bigger=easier → 3. **T11** $15k forgiveness → 4. **T9** business isn't your business → 5. **T14** Rockefeller poem → 6. **T5** Gates hamburgers → 7. **T12** multitasking → 8. **T10** Branson backstroke → 9. **T6+T7** upside/downside pair → 10. **T2, T3, T8, T13** cadence.
+1. **T11** $15k forgiveness → 2. **T4** Naveen bigger=easier → 3. **T9** business isn't your business → 4. **T14** Rockefeller poem → 5. **T5** Gates hamburgers → 6. **T12** multitasking → 7. **T10** Branson backstroke → 8. **T6+T7** upside/downside pair → 9. **T8, T13** cadence.
 
 # FEEDBACK LOOP
 Log approved verbatim + 24h data (views/shares/likes/saves) per clip to Airtable, tagged by talk + SHORT/LONG.
