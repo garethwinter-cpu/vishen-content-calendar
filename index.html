@@ -73,7 +73,7 @@
   .chip.naveen{background:var(--green-light);color:var(--green-content);border-left:3px solid var(--green)}
   .chip.chiara{background:var(--pink-light);color:var(--pink);border-left:3px solid var(--pink)}
   .chip.holdrel{background:var(--orange-light);color:var(--orange-content);border-left:3px solid var(--orange)}
-  .chip.shipped{background:var(--green-light);color:var(--green-content);border-left:3px solid var(--green)}
+  .livebug{position:absolute;top:6px;right:6px;background:var(--red);color:var(--white);font-size:9px;font-weight:700;letter-spacing:.06em;border-radius:128px;padding:2px 7px;line-height:1.4}
   .day.prevmonth .num{opacity:.55}
   .chip .flagdot{position:absolute;top:6px;right:6px;width:8px;height:8px;border-radius:128px;background:var(--orange)}
   .chip.dim{opacity:.18;pointer-events:none}
@@ -243,7 +243,7 @@ function renderMonths(){
         const chip=document.createElement("button");
         chip.className="chip "+(c.hold?"holdrel":SOURCES[c.src].cls);
         chip.dataset.src=c.src; chip.dataset.flag=c.f?"1":"0";
-        chip.innerHTML=`<span class="src">${SOURCES[c.src].sn}</span>${c.t}${c.f?'<span class="flagdot" title="Needs senior eye"></span>':""}<span class="len">${c.len}</span>`;
+        chip.innerHTML=`${c.d==="released"?'<span class="livebug">LIVE</span>':""}<span class="src">${c.d==="released"?"Shipped · ":""}${SOURCES[c.src].sn}</span>${c.t}${c.f?'<span class="flagdot" title="Needs senior eye"></span>':""}<span class="len">${c.d==="released"?"130k views in 24h":c.len}</span>`;
         chip.addEventListener("click",()=>openModal(c));
         cell.appendChild(chip);
       });
@@ -306,7 +306,7 @@ function renderReleased(){
     const s=SOURCES[c.src];
     const card=document.createElement("button");
     card.className="card";card.dataset.src=c.src;card.dataset.flag=c.f?"1":"0";
-    card.innerHTML=`<span class="badge" style="background:${s.badgeBg};color:${s.badgeFg}">${s.name}</span><span class="badge" style="background:var(--green-light);color:var(--green-content)">${c.perf}</span><h3>${c.t}</h3><p>${c.note}</p>`;
+    card.innerHTML=`<span class="badge" style="background:var(--red);color:var(--white)">LIVE</span><span class="badge" style="background:${s.badgeBg};color:${s.badgeFg}">${s.name}</span><span class="badge" style="background:var(--green-light);color:var(--green-content)">${c.perf}</span><h3>${c.t}</h3><p>${c.note}</p>`;
     card.addEventListener("click",()=>openModal(c));
     el.appendChild(card);
   });
