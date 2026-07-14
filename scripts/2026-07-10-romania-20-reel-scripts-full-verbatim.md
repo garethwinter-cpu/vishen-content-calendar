@@ -50,8 +50,8 @@ Optional alternate ending (verbatim, from the Q&A): "If you can't get your work 
 
 ---
 
-## CLIP 2 · "Pay your f***ing taxes."
-**Mode: Contrarian/values · Verdict: SHIP-WITH-FLAG (profanity; "men like Trump" aside — Vishen underlined it, keep senior awareness re: visa window)**
+## CLIP 2 · "Pay your f***ing taxes." — ✅ LIVE (Jul 10, 2026) · ⚠️ 32k/24h
+**Mode: Contrarian/values · Verdict: RELEASED (VL Insta, clipper Jia Wen Liu). Vishen picked the cover hook "The 1% owns more than the bottom 80% combined" (stat-shock) — but the asset was uploaded WITHOUT the amended cover, so the picked hook never appeared. 24h: 32,000 views (current 38.5k, 856 likes, 122 comments, 77 reposts) vs 130k for the cover-disciplined Feminine Leadership clip. Post-mortem + new pre-publish rule (verify the cover carries the picked hook) logged in `hook-writing-playbook.md`. Airtable record: "The 1% owns more than the bottom 80% combined" (rec zbrvDuNNCqNrxn).**
 
 **🎬 ON-SCREEN HOOK (LONG):** "Society built you." · **(SHORT):** "The 1% owns more than the bottom 80% combined."
 **🎙️ SPOKEN OPEN (LONG):** "As entrepreneurs, you are responsible for something bigger than yourself."
