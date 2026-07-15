@@ -71,12 +71,12 @@ Use **Clip 1B (TITAN/SHORT — Vishen's own Data-Hook cut)** from `2026-07-10-vi
 
 ---
 
-## CLIP 3 · "America is a country that is broken. I left."
-**Mode: Contrarian · Verdict: SHIP-WITH-FLAG (stats must land inside 11s; senior eye on tone)**
+## CLIP 3 · "America is a country that is broken. I left." — 🚀 SHIPS TODAY (Jul 10)
+**Mode: Contrarian · Verdict: SHIP (senior eye = Gareth, Jul 10). Master LONG recut synced to the calendar modal: non-linear open on the line + (Pause), bookend duplication at the charge (law 3), approved 80% figure, warm close on "Build products that matter." Kept MECE with the live taxes clip (no Elon/Bezos) and the §2 hold (no Trump/Brexit).**
 
-**🎬 ON-SCREEN HOOK:** "America is broken. I left."
-**🎙️ SPOKEN OPEN:** "America is a country that is broken. I left America."
-**⏱️ SHORT ~45s · LONG ~90s**
+**🎬 ON-SCREEN HOOK (PICKED by Gareth — full verbatim line):** "America is a country that is broken. I left America." · variants: "550,000 Americans go bankrupt every year — for getting sick." / "Why I built a $150M company away from America."
+**🎙️ SPOKEN OPEN:** "America is a country that is broken. I left America." (Pause)
+**⏱️ SHORT ~45s · LONG ~90s · speed 1.15× · cover must carry the picked hook (pre-publish check)**
 
 **Why uncommon:** every success voice worships Silicon Valley; a founder who *chose to leave* and says "stop copying a broken template" — with numbers — is a pattern-break, especially for a European audience.
 
